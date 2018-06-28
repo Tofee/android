@@ -1,0 +1,4 @@
+[submodule "halium"]
+	path = halium
+	url = https://github.com/Halium/android.git
+	branch = halium-7.1
